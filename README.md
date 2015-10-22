@@ -1,4 +1,4 @@
-# CSI401HW1
+# CSI402HW1
 A project done for ICSI402(Systems Programming) at University at Albany
 The homework is as follows:
 In this homework you are going to create a SIC assembler (simulator) using C. The assembler has to do the following:
