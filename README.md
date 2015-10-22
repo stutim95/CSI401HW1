@@ -9,10 +9,10 @@ In this homework you are going to create a SIC assembler (simulator) using C. Th
 3.	Create symbol table
 4.	Create an object file which contains the op-code for the program	</p>
 <p>
-The src files have the following functions:
-<b>main.c : </b> The main file
-<b>lc.c : </b> The LC table
-<b>object_code.c : </b>Calculates the object code and adds them to an output file
-<b>readopcodes.c : </b>Reads the opcodes from an input file
-<b>symbols.c : </b>Contains the functions for the binary tree
+The src files have the following functions:<br>
+<b>main.c : </b> The main file <br>
+<b>lc.c : </b> The LC table <br>
+<b>object_code.c : </b>Calculates the object code and adds them to an output file<br>
+<b>readopcodes.c : </b>Reads the opcodes from an input file<br>
+<b>symbols.c : </b>Contains the functions for the binary tree<br>
 </p>
