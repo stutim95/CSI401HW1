@@ -1,5 +1,6 @@
 # CSI402HW1
 A project done for ICSI402(Systems Programming) at University at Albany in Fall 2015. 
+<br>
 The homework is as follows:
 In this homework you are going to create a SIC assembler (simulator) using C. The assembler has to do the following:
 1.	Interpret a given assembly code given in a text file
