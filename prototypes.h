@@ -1,0 +1,13 @@
+void readOpcode(void);
+void readFirstLC(char[]);
+int parseString(char[3][10], char[25]);
+int sym_search(char[10],sym*);
+void print_sym(sym *);
+void add_sym(sym **, char[]);
+void delete_sym(sym *);
+int sym_find(char[], sym*);
+void print_lc(void);
+void add_lc(char[]);
+void delete_lc(void);
+void add_locaddr(int, char[3][10]);
+void print_opcode(int, char[3][10]);

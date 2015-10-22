@@ -1,0 +1,11 @@
+//the external variables
+extern FILE* ifp;
+extern FILE* ifp2;
+extern FILE* ofp;
+extern char operation[10][10];
+extern char symbols[10];
+extern int start_address;
+extern LC *LOCATION;
+extern int LOCADDR;
+extern sym *SYMBAL;
+extern int objectcodes[10];
